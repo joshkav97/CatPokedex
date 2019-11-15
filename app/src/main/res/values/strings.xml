@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cat Pokedex</string>
+    <string name="search">Search</string>
+    <string name="favourites">Favourites</string>
+    <string name="api_key">851b9991-a800-44e1-ba4a-b0af81fe8cf8</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="weight">Weight</string>
+    <string name="kg">" "Kg</string>
+    <string name="temperament">Temperament</string>
+    <string name="origin">Origin</string>
+    <string name="life_span">Life Span</string>
+    <string name="wikipedia_url">Wikipedia Link</string>
+    <string name="dog_friendly">Dog Friendliness Rating</string>
+    <string name="add_to_favourites">Add To Favourites</string>
+    <string name="hint"> Search Breed</string>
+    <string name="picture_description">Picture of Cat</string>
+    <string name="years">" "Years</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
